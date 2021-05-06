@@ -13,7 +13,7 @@ dlib==19.8.1
 face-recognition==1.2.3
 face-recognition-models==0.3.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 flask-mongoengine==0.9.5
 Flask-WTF==0.14.2
 gast==0.2.2
