@@ -41,7 +41,7 @@ numpy==1.17.0
 opencv-python==4.1.0.25
 pandas==0.25.0
 Pillow==8.1.1
-protobuf==3.9.0
+protobuf==3.15.0
 PyAudio==0.2.11
 PyAutoGUI==0.9.45
 pyFFTW==0.10.4
